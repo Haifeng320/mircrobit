@@ -1,4 +1,3 @@
-# 在这里写上你的代码 :-)
 from microbit import *
 
 while True :
